@@ -1,1 +1,0 @@
-Mandatory read me file
