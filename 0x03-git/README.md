@@ -1,0 +1,1 @@
+This directory contains all files pertaining task 0x03 of the Holberton school week zero.
