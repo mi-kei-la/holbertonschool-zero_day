@@ -1,0 +1,1 @@
+Directory containing all shortcuts for 0x02 task, pertaining Vi shortcuts.
